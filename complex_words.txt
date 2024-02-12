@@ -1,0 +1,9 @@
+# Veggies
+Spinach
+Onion
+Pepper
+
+# Fruits
+Apple
+Berry
+Mango
